@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PogadadandaVikas
 - 👀 I’m interested in Linux and Web development.
-- 🌱 I’m currently learning Aws Developer Associate
-- 💞️ I’m looking to collaborate on Web development
+- 🌱 I’m currently learning Aws Cloud Practitioner.
+- 💞️ I’m looking to collaborate on Web development.
 - 📫 How to reach me vikaspogadadanda@gmail.com
 
 <!---
